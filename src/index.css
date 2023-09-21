@@ -1,0 +1,36 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.id-col {
+  width: 10%; /* Adjust based on your preference */
+}
+
+.fname-col {
+  width: 15%;
+}
+
+
+.email-col {
+  width: 28%;
+}
+
+.phone-col {
+  width: 15%;
+}
+
+.country-id-col {
+  width: 12%;
+}
+
+.scrollable-table-container {
+  max-height: 300px; /* Adjust this value based on your preference */
+  overflow-y: auto;
+}
+.fixed-layout-table {
+  table-layout: fixed;
+  width: 100%;
+}
